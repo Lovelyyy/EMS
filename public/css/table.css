@@ -1,0 +1,14 @@
+table {	
+	width: 100%;
+}
+
+th, td {
+	border: solid black 1px;
+	padding: 5px;
+	width: 28%;
+}
+
+.action {
+	text-align: center;
+	width: 15%;
+}

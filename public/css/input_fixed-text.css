@@ -1,0 +1,5 @@
+.input-box { position: relative; }
+
+.fixed-text { display: block; padding-left: 65px; }
+
+.unit { position: absolute; display: block; left: 25px; top: 6px; z-index: 9; }
